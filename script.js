@@ -1,0 +1,1 @@
+// script.js - see previous response for full version
